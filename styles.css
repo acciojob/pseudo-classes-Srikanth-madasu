@@ -1,21 +1,21 @@
 /*  your css code here. If applicable */
-body{
+html{
 	background-color:rgb(135, 206, 235);
 	
 }
 
-div>p:first-child{
+p:first-child{
 	background-color:black;
 	color:white;
 
 }
 
-div>p:nth-child(2){
+p:nth-child(2){
 
 	
 }
 
-div>p:last-child{
+p:last-child{
  color:red;
 	
 }
